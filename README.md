@@ -31,8 +31,8 @@
 
 ### 4. Prep Terminal.app
 
-- Load [`.bash_profile`](/master/.bash_profile)
-- Load [`.gitconfig`](/master/.gitconfig) contents into the global `~/.gitconfig`
+- Load [`.bash_profile`](/.bash_profile)
+- Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
 - Tweak color scheme
 
 ### 5. Setup Xcode + dependencies
@@ -55,7 +55,7 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
 - Install and load packages (`Cmd-Shift-P`):
   - [Spacegray theme](http://kkga.github.io/spacegray/) 
   - [Sass](http://sass-lang.com) package
-- Load user settings from [`Preferences.sublime-settings`](/master/Preferences.sublime-settings)
+- Load user settings from [`Preferences.sublime-settings`](/Preferences.sublime-settings)
 
 ### 7. Download Atom
 
