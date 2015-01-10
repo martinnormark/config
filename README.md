@@ -20,9 +20,6 @@
 
 ### 2. Download dependencies
 
-- Install [rbenv](https://github.com/sstephenson/rbenv)
-- Install [a Ruby version](https://github.com/sstephenson/rbenv#installing-ruby-versions) (last one I used was `1.9.3-p551`)
-  - Set a [global Ruby version](https://github.com/sstephenson/rbenv#rbenv-global)
 - Install common gems: `$ gem install sass jekyll rouge`
 - Download and run the [Node.js Mac installer](http://nodejs.org/download/)
 - Install Grunt command line tools: `$ npm install -g grunt-cli`
