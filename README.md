@@ -38,7 +38,15 @@
 - Load [`.gitconfig`](/master/.gitconfig) contents into the global `~/.gitconfig`
 - Tweak color scheme
 
-### 5. Tweak Sublime Text 2 just right
+### 5. Setup Xcode + dependencies
+
+- (Optional) [Import iOS/Mac developer profile](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html#//apple_ref/doc/uid/TP40012582-CH31-SW15)
+- If you didn't import, [add your Apple ID account to Xcode](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/ManagingAccounts/ManagingAccounts.html#//apple_ref/doc/uid/TP40012582-CH24-SW2)
+- Install [Alcatraz](http://alcatraz.io/) `curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh`
+- Install [cocoapods](http://cocoapods.org/) `gem install cocoapods` (given permission errors, run the command elevated with `sudo`)
+- Install [Dash for iOS](http://kapeli.com/dash_ios)
+
+### 6. Tweak Sublime Text 2 just right
 
 *I use Sublime Text 2 as ST3 had quite a few problems the first day I used it with Yosemite. You'll need to modify your approach below if you're using ST3.*
 
@@ -52,7 +60,7 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
   - [Sass](http://sass-lang.com) package
 - Load user settings from [`Preferences.sublime-settings`](/master/Preferences.sublime-settings)
 
-### 6. Download Atom
+### 7. Download Atom
 
 - Install Atom itself
 - Add Spacegray UI theme and Ocean Dark color scheme
