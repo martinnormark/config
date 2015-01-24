@@ -42,6 +42,10 @@
 - Install [Alcatraz](http://alcatraz.io/) `curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh`
 - Install [cocoapods](http://cocoapods.org/) `gem install cocoapods` (given permission errors, run the command elevated with `sudo`)
 - Install [Dash for iOS](http://kapeli.com/dash_ios)
+- Install [PaintCode](http://www.paintcodeapp.com/)
+- Install [xScope](http://xscopeapp.com/)
+- Install [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12)
+- Install [Tokens](http://usetokens.com/)
 
 ### 6. Tweak Sublime Text 2 just right
 
