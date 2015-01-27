@@ -67,6 +67,9 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
 - Add Spacegray UI theme and Ocean Dark color scheme
 - Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 
+### 8. Install more tools
+ - Install [LICEcap](http://www.cockos.com/licecap/)
+
 ## Use it yourself
 
 Fork this repo, or just copy-paste things you need, and make it your own. **Please be sure to change your `.gitconfig` name and email address though!**
